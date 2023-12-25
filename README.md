@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Osmon11">Osmon</a>
-<img src="https://github.com/Osmon11/Osmon11/raw/main/assets/Hi.gif" height="32"/></h1>
+<img src="[https://github.com/Osmon11/Osmon11/raw/main/assets/Hi.gif](https://github.com/Osmon11/Osmon11/blob/master/assets/Hi.gif)" height="32"/></h1>
 <h3 align="center">Fullstack developer</h3>
 <p align="center">
   <a href="https://github.com/Osmon11">
